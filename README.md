@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Associate+ERP+Developer;Data+Enthusiast;B.Sc.+CSIT+Graduate;Lifelong+Learner&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
----
+ 
 
 ## 🎓 About Me 
 I'm a **B.Sc. Computer Science and Information Technology** graduate currently working as an **Associate ERP Developer**, where I specialize in **AL (Business Central 365)** and **C/AL (Dynamics NAV)** development. My passion for technology extends beyond ERP systems as I actively explore **Python**, **SQL** and **Data Analysis**. I'm driven by curiosity and always eager to learn new technologies, solve complex problems, and bridge the gap between traditional ERP development and modern data science applications.
@@ -50,7 +50,6 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utttam-chamling-rai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiuttam88.ur@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/uttamchamlingrai)
 
 </div>
