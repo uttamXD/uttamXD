@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Associate+ERP+Developer;Data+Enthusiast;B.Sc.+CSIT+Graduate;Lifelong+Learner&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
- 
+
+---
 
 ## 🎓 About Me 
 I'm a **B.Sc. Computer Science and Information Technology** graduate currently working as an **Associate ERP Developer**, where I specialize in **AL (Business Central 365)** and **C/AL (Dynamics NAV)** development. My passion for technology extends beyond ERP systems as I actively explore **Python**, **SQL** and **Data Analysis**. I'm driven by curiosity and always eager to learn new technologies, solve complex problems, and bridge the gap between traditional ERP development and modern data science applications.
@@ -34,7 +35,6 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
   <img src="https://github-profile-trophy.vercel.app/?username=uttamXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-
 ---
 
 ## 📈 Activity Graph
@@ -54,7 +54,6 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
 
 </div>
 
----
 
 <div align="center">
   
