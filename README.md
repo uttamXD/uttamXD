@@ -59,8 +59,6 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
   
 ### 💡 "Continuous learning is the key to staying relevant in technology"
 
-![Profile Views](https://komarev.com/ghpvc/?username=uttamXD&color=58a6ff&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
