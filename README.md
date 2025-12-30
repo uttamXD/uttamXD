@@ -19,28 +19,28 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttamXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=79c0ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamXD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttamXD&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=7d8590" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uttamXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
 ## 📈 Activity Graph
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttamXD&bg_color=0d1117&color=e6edf3&line=58a6ff&point=79c0ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+</div> -->
 
 ---
 
