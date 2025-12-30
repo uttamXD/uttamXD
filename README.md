@@ -15,7 +15,6 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AL](https://img.shields.io/badge/AL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![C/AL](https://img.shields.io/badge/C%2FAL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
 
 <!-- ## 📊 GitHub Analytics -->
 
@@ -28,14 +27,12 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttamXD&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=7d8590" alt="GitHub Streak" />
 </div> -->
 
----
 
 <!-- ## 🏆 GitHub Trophies -->
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uttamXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div> -->
 
----
 
 <!-- ## 📈 Activity Graph -->
 <!-- <div align="center">
