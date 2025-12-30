@@ -17,7 +17,7 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics -->
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttamXD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=79c0ff"/>
@@ -30,14 +30,14 @@ I'm a **B.Sc. Computer Science and Information Technology** graduate currently w
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uttamXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div> -->
 
 ---
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph -->
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttamXD&bg_color=0d1117&color=e6edf3&line=58a6ff&point=79c0ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div> -->
